@@ -1,0 +1,73 @@
+{{ define "main" }}
+
+<section class="contact-layout">
+
+  <aside class="contact-side">
+    <!-- future photo -->
+  </aside>
+
+  <div class="contact-separator"></div>
+
+  <section class="contact-content">
+
+    <div class="contact-intro">
+      {{ .Content }}
+    </div>
+
+    <ul class="contact-list">
+
+      {{ with .Params.email }}
+        <li>
+          <a href="mailto:{{ . }}">{{ . }}</a>
+        </li>
+      {{ end }}
+
+      {{ with .Params.phone }}
+        <li>
+          <a href="tel:{{ replace . " " "" }}">{{ . }}</a>
+        </li>
+      {{ end }}
+
+      {{ with .Params.imdb_url }}
+        <li>
+          <a class="social-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">
+            <img src="/images/socials/imdb.png" alt="" class="social-icon">
+            <span>IMDb</span>
+          </a>
+        </li>
+      {{ end }}
+
+      {{ with .Params.vimeo_url }}
+        <li>
+          <a class="social-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">
+            <img src="/images/socials/vimeo.jpeg" alt="" class="social-icon">
+            <span>Vimeo</span>
+          </a>
+        </li>
+      {{ end }}
+
+      {{ with .Params.instagram_url }}
+        <li>
+          <a class="social-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">
+            <img src="/images/socials/instagram.png" alt="" class="social-icon">
+            <span>Instagram</span>
+          </a>
+        </li>
+      {{ end }}
+
+      {{ with .Params.linkedin_url }}
+        <li>
+          <a class="social-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">
+            <img src="/images/socials/linkedin.png" alt="" class="social-icon">
+            <span>LinkedIn</span>
+          </a>
+        </li>
+      {{ end }}
+
+    </ul>
+
+  </section>
+
+</section>
+
+{{ end }}

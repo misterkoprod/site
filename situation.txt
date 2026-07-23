@@ -1,0 +1,409 @@
+.:
+total 9
+-rwxrwxrwx 1 root root    0 mai   17 18:45 situation.txt
+drwxrwxrwx 1 root root 4096 mai   17 18:41 public
+-rwxrwxrwx 1 root root  211 mai    3 22:32 hugo.toml
+drwxrwxrwx 1 root root 4096 mai    3 22:21 layouts
+drwxrwxrwx 1 root root    0 mai    3 18:23 static
+drwxrwxrwx 1 root root    0 mai    3 14:48 resources
+drwxrwxrwx 1 root root    0 mai    3 14:31 assets
+drwxrwxrwx 1 root root    0 mai    3 14:00 content
+drwxrwxrwx 1 root root    0 mai    3 13:07 themes
+drwxrwxrwx 1 root root    0 mai    3 13:07 i18n
+drwxrwxrwx 1 root root    0 mai    3 13:07 data
+drwxrwxrwx 1 root root    0 mai    3 13:07 archetypes
+
+./public:
+total 24
+-rwxrwxrwx 1 root root 2370 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 1521 mai   17 18:41 index.html
+-rwxrwxrwx 1 root root 1384 mai   17 18:41 sitemap.xml
+drwxrwxrwx 1 root root 4096 mai    3 22:39 films
+drwxrwxrwx 1 root root    0 mai    3 22:39 contact
+drwxrwxrwx 1 root root 4096 mai    3 22:39 photos
+drwxrwxrwx 1 root root    0 mai    3 18:23 js
+drwxrwxrwx 1 root root 4096 mai    3 14:44 css
+
+./public/films:
+total 8
+-rwxrwxrwx 1 root root 1228 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 2206 mai   17 18:41 index.html
+drwxrwxrwx 1 root root    0 mai    3 22:39 dn
+drwxrwxrwx 1 root root    0 mai    3 22:39 lpe-trailer
+drwxrwxrwx 1 root root    0 mai    3 22:39 gd
+
+./public/films/dn:
+total 2812
+-rwxrwxrwx 1 root root    1766 mai   17 18:41 index.html
+-rwxrwxrwx 1 root root 2810353 mai   17 18:41 poster.jpg
+-rwxrwxrwx 1 root root   58020 mai    3 22:39 poster_hu_6115620d38ab6a37.webp
+
+./public/films/lpe-trailer:
+total 56
+-rwxrwxrwx 1 root root  1725 mai   17 18:41 index.html
+-rwxrwxrwx 1 root root 28001 mai   17 18:41 poster.jpg
+-rwxrwxrwx 1 root root 22026 mai    3 22:39 poster_hu_b7bdc8cedd5d39fa.webp
+
+./public/films/gd:
+total 172
+-rwxrwxrwx 1 root root   1742 mai   17 18:41 index.html
+-rwxrwxrwx 1 root root 131505 mai   17 18:41 poster.jpg
+-rwxrwxrwx 1 root root  35602 mai    3 22:39 poster_hu_fe2665a9c2d1e7a5.webp
+
+./public/contact:
+total 5
+-rwxrwxrwx 1 root root  479 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 2112 mai   17 18:41 index.html
+
+./public/photos:
+total 5
+-rwxrwxrwx 1 root root  475 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 3065 mai   17 18:41 index.html
+drwxrwxrwx 1 root root    0 mai    3 22:39 corporate
+drwxrwxrwx 1 root root    0 mai    3 22:39 portraits
+drwxrwxrwx 1 root root    0 mai    3 22:39 city
+drwxrwxrwx 1 root root    0 mai    3 22:39 sport
+drwxrwxrwx 1 root root    0 mai    3 22:39 btp
+drwxrwxrwx 1 root root    0 mai    3 22:39 countryside
+drwxrwxrwx 1 root root    0 mai    3 22:39 tournages
+
+./public/photos/corporate:
+total 8
+-rwxrwxrwx 1 root root 1108 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 2125 mai   17 18:41 index.html
+drwxrwxrwx 1 root root    0 mai    3 22:39 portraits-corporate
+drwxrwxrwx 1 root root    0 mai    3 22:39 evenementiel
+
+./public/photos/corporate/portraits-corporate:
+total 96
+-rwxrwxrwx 1 root root  2656 mai   17 18:41 index.html
+-rwxrwxrwx 1 root root 65084 mai   17 18:41 photo-01.jpg
+-rwxrwxrwx 1 root root 27530 mai    3 22:39 photo-01_hu_f2d7095e739a3fed.webp
+
+./public/photos/corporate/evenementiel:
+total 96
+-rwxrwxrwx 1 root root  2589 mai   17 18:41 index.html
+-rwxrwxrwx 1 root root 65084 mai   17 18:41 photo-01.jpg
+-rwxrwxrwx 1 root root 27530 mai    3 22:39 photo-01_hu_f2d7095e739a3fed.webp
+
+./public/photos/portraits:
+total 5
+-rwxrwxrwx 1 root root  501 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 1348 mai   17 18:41 index.html
+
+./public/photos/city:
+total 5
+-rwxrwxrwx 1 root root  481 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 1328 mai   17 18:41 index.html
+
+./public/photos/sport:
+total 8
+-rwxrwxrwx 1 root root  751 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 1662 mai   17 18:41 index.html
+drwxrwxrwx 1 root root    0 mai    3 22:39 action
+
+./public/photos/sport/action:
+total 96
+-rwxrwxrwx 1 root root  2489 mai   17 18:41 index.html
+-rwxrwxrwx 1 root root 65084 mai   17 18:41 photo-01.jpg
+-rwxrwxrwx 1 root root 27530 mai    3 22:39 photo-01_hu_f2d7095e739a3fed.webp
+
+./public/photos/btp:
+total 12
+-rwxrwxrwx 1 root root  754 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 1675 mai   17 18:41 index.html
+drwxrwxrwx 1 root root 4096 mai    3 22:39 chantier-01
+
+./public/photos/btp/chantier-01:
+total 660
+-rwxrwxrwx 1 root root   3544 mai   17 18:41 index.html
+-rwxrwxrwx 1 root root 144242 mai   17 18:41 photo-03.jpg
+-rwxrwxrwx 1 root root 150648 mai   17 18:41 photo-02.jpg
+-rwxrwxrwx 1 root root 247889 mai   17 18:41 photo-01.jpg
+-rwxrwxrwx 1 root root  45946 mai    3 22:39 photo-03_hu_699bf1d4b47e8d0b.webp
+-rwxrwxrwx 1 root root  26992 mai    3 22:39 photo-02_hu_32b14e8616b5295e.webp
+-rwxrwxrwx 1 root root  41718 mai    3 22:39 photo-01_hu_5825c9a6f9c9b5e9.webp
+
+./public/photos/countryside:
+total 5
+-rwxrwxrwx 1 root root  509 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 1356 mai   17 18:41 index.html
+
+./public/photos/tournages:
+total 5
+-rwxrwxrwx 1 root root  501 mai   17 18:41 index.xml
+-rwxrwxrwx 1 root root 1348 mai   17 18:41 index.html
+
+./public/js:
+total 4
+-rwxrwxrwx 1 root root 1904 mai    3 18:28 lightbox.js
+
+./public/css:
+total 9
+-rwxrwxrwx 1 root root 4176 mai   17 18:41 main.min.4924f5193ec953c0870893dfe81e53ddcbd12dbeada6a40cd4f2ac6dce55b8b4.css
+-rwxrwxrwx 1 root root  629 mai    3 14:19 style.css
+
+./layouts:
+total 1
+drwxrwxrwx 1 root root  0 mai    3 22:21 contact
+drwxrwxrwx 1 root root  0 mai    3 18:53 partials
+drwxrwxrwx 1 root root  0 mai    3 18:49 films
+drwxrwxrwx 1 root root  0 mai    3 18:19 photos
+-rwxrwxrwx 1 root root 91 mai    3 15:03 index.html
+drwxrwxrwx 1 root root  0 mai    3 14:04 _default
+
+./layouts/contact:
+total 4
+-rwxrwxrwx 1 root root 869 mai    3 22:21 list.html
+
+./layouts/partials:
+total 5
+-rwxrwxrwx 1 root root 1237 mai    3 18:53 video-player.html
+-rwxrwxrwx 1 root root  425 mai    3 15:03 header.html
+
+./layouts/films:
+total 2
+-rwxrwxrwx 1 root root 570 mai    3 22:31 list.html
+-rwxrwxrwx 1 root root 106 mai    3 18:55 single.html
+
+./layouts/photos:
+total 8
+-rwxrwxrwx 1 root root 1292 mai    3 22:30 single.html
+-rwxrwxrwx 1 root root  736 mai    3 22:29 list.html
+
+./layouts/_default:
+total 5
+-rwxrwxrwx 1 root root 1614 mai    3 22:37 baseof.html
+-rwxrwxrwx 1 root root   99 mai    3 14:04 list.html
+-rwxrwxrwx 1 root root   99 mai    3 14:04 single.html
+
+./static:
+total 0
+drwxrwxrwx 1 root root 0 mai    3 18:23 js
+drwxrwxrwx 1 root root 0 mai    3 14:44 css
+
+./static/js:
+total 4
+-rwxrwxrwx 1 root root 1904 mai    3 18:28 lightbox.js
+
+./static/css:
+total 1
+-rwxrwxrwx 1 root root 629 mai    3 14:19 style.css
+
+./resources:
+total 0
+drwxrwxrwx 1 root root 0 mai    3 22:29 _gen
+
+./resources/_gen:
+total 0
+drwxrwxrwx 1 root root 0 mai    3 22:31 images
+drwxrwxrwx 1 root root 0 mai    3 14:48 assets
+
+./resources/_gen/images:
+total 0
+drwxrwxrwx 1 root root 0 mai    3 22:31 films
+drwxrwxrwx 1 root root 0 mai    3 22:29 photos
+
+./resources/_gen/images/films:
+total 0
+drwxrwxrwx 1 root root 0 mai    3 22:31 dn
+drwxrwxrwx 1 root root 0 mai    3 22:31 lpe-trailer
+drwxrwxrwx 1 root root 0 mai    3 22:31 gd
+
+./resources/_gen/images/films/dn:
+total 60
+-rwxrwxrwx 1 root root 58020 mai    3 22:39 poster_hu_6115620d38ab6a37.webp
+
+./resources/_gen/images/films/lpe-trailer:
+total 24
+-rwxrwxrwx 1 root root 22026 mai    3 22:39 poster_hu_b7bdc8cedd5d39fa.webp
+
+./resources/_gen/images/films/gd:
+total 36
+-rwxrwxrwx 1 root root 35602 mai    3 22:39 poster_hu_fe2665a9c2d1e7a5.webp
+
+./resources/_gen/images/photos:
+total 0
+drwxrwxrwx 1 root root 0 mai    3 22:29 corporate
+drwxrwxrwx 1 root root 0 mai    3 22:29 btp
+drwxrwxrwx 1 root root 0 mai    3 22:29 sport
+
+./resources/_gen/images/photos/corporate:
+total 0
+drwxrwxrwx 1 root root 0 mai    3 22:29 portraits-corporate
+drwxrwxrwx 1 root root 0 mai    3 22:29 evenementiel
+
+./resources/_gen/images/photos/corporate/portraits-corporate:
+total 28
+-rwxrwxrwx 1 root root 27530 mai    3 22:39 photo-01_hu_f2d7095e739a3fed.webp
+
+./resources/_gen/images/photos/corporate/evenementiel:
+total 28
+-rwxrwxrwx 1 root root 27530 mai    3 22:39 photo-01_hu_f2d7095e739a3fed.webp
+
+./resources/_gen/images/photos/btp:
+total 0
+drwxrwxrwx 1 root root 0 mai    3 22:30 chantier-01
+
+./resources/_gen/images/photos/btp/chantier-01:
+total 120
+-rwxrwxrwx 1 root root 45946 mai    3 22:39 photo-03_hu_699bf1d4b47e8d0b.webp
+-rwxrwxrwx 1 root root 26992 mai    3 22:39 photo-02_hu_32b14e8616b5295e.webp
+-rwxrwxrwx 1 root root 41718 mai    3 22:39 photo-01_hu_5825c9a6f9c9b5e9.webp
+
+./resources/_gen/images/photos/sport:
+total 0
+drwxrwxrwx 1 root root 0 mai    3 22:29 action
+
+./resources/_gen/images/photos/sport/action:
+total 28
+-rwxrwxrwx 1 root root 27530 mai    3 22:39 photo-01_hu_f2d7095e739a3fed.webp
+
+./resources/_gen/assets:
+total 0
+drwxrwxrwx 1 root root 0 mai    3 14:48 css
+
+./resources/_gen/assets/css:
+total 9
+-rwxrwxrwx 1 root root 4176 mai   17 18:41 main.scss_77b10c8e87ff110a62c52933fe3f7f11.content
+-rwxrwxrwx 1 root root  193 mai   17 18:41 main.scss_77b10c8e87ff110a62c52933fe3f7f11.json
+
+./assets:
+total 4
+drwxrwxrwx 1 root root 4096 mai    3 14:46 css
+
+./assets/css:
+total 1
+-rwxrwxrwx 1 root root 222 mai    3 22:22 main.scss
+drwxrwxrwx 1 root root   0 mai    3 22:22 pages
+drwxrwxrwx 1 root root   0 mai    3 15:07 components
+drwxrwxrwx 1 root root   0 mai    3 14:46 base
+
+./assets/css/pages:
+total 10
+-rwxrwxrwx 1 root root  630 mai    3 22:22 contact.scss
+-rwxrwxrwx 1 root root 1043 mai    3 18:50 films.scss
+-rwxrwxrwx 1 root root 2484 mai    3 18:40 photos.scss
+-rwxrwxrwx 1 root root  228 mai    3 15:02 home.scss
+
+./assets/css/components:
+total 1
+-rwxrwxrwx 1 root root 172 mai    3 15:02 nav.scss
+-rwxrwxrwx 1 root root 328 mai    3 15:01 header.scss
+
+./assets/css/base:
+total 2
+-rwxrwxrwx 1 root root 141 mai    3 15:09 global.scss
+-rwxrwxrwx 1 root root 202 mai    3 14:44 variables.scss
+-rwxrwxrwx 1 root root 143 mai    3 14:44 reset.scss
+
+./content:
+total 5
+drwxrwxrwx 1 root root    0 mai    3 18:43 films
+drwxrwxrwx 1 root root 4096 mai    3 15:15 photos
+-rwxrwxrwx 1 root root  177 mai    3 14:18 _index.md
+drwxrwxrwx 1 root root    0 mai    3 14:01 contact
+
+./content/films:
+total 1
+drwxrwxrwx 1 root root  0 mai    3 18:46 gd
+drwxrwxrwx 1 root root  0 mai    3 18:45 dn
+drwxrwxrwx 1 root root  0 mai    3 18:45 lpe-trailer
+-rwxrwxrwx 1 root root 22 mai    3 14:01 _index.md
+
+./content/films/gd:
+total 133
+-rwxrwxrwx 1 root root 131505 mai    3 18:46 poster.jpg
+-rwxrwxrwx 1 root root     98 mai    3 18:43 index.md
+
+./content/films/dn:
+total 2749
+-rwxrwxrwx 1 root root     103 mai    3 18:51 index.md
+-rwxrwxrwx 1 root root 2810353 mai    3 18:45 poster.jpg
+
+./content/films/lpe-trailer:
+total 29
+-rwxrwxrwx 1 root root 28001 mai    3 18:45 poster.jpg
+-rwxrwxrwx 1 root root   100 mai    3 18:43 index.md
+
+./content/photos:
+total 5
+drwxrwxrwx 1 root root    0 mai    3 18:29 corporate
+drwxrwxrwx 1 root root    0 mai    3 18:29 sport
+drwxrwxrwx 1 root root 4096 mai    3 18:09 btp
+drwxrwxrwx 1 root root    0 mai    3 15:19 tournages
+drwxrwxrwx 1 root root    0 mai    3 15:18 portraits
+drwxrwxrwx 1 root root    0 mai    3 15:18 countryside
+drwxrwxrwx 1 root root    0 mai    3 15:16 city
+-rwxrwxrwx 1 root root   23 mai    3 14:00 _index.md
+
+./content/photos/corporate:
+total 1
+drwxrwxrwx 1 root root  0 mai    3 18:32 evenementiel
+drwxrwxrwx 1 root root  0 mai    3 18:32 portraits-corporate
+-rwxrwxrwx 1 root root 26 mai    3 15:17 _index.md
+
+./content/photos/corporate/evenementiel:
+total 65
+-rwxrwxrwx 1 root root 65084 mai    3 18:32 photo-01.jpg
+-rwxrwxrwx 1 root root    81 mai    3 18:30 index.md
+
+./content/photos/corporate/portraits-corporate:
+total 65
+-rwxrwxrwx 1 root root 65084 mai    3 18:32 photo-01.jpg
+-rwxrwxrwx 1 root root    86 mai    3 18:30 index.md
+
+./content/photos/sport:
+total 1
+drwxrwxrwx 1 root root  0 mai    3 18:31 action
+-rwxrwxrwx 1 root root 22 mai    3 15:19 _index.md
+
+./content/photos/sport/action:
+total 65
+-rwxrwxrwx 1 root root 65084 mai    3 18:31 photo-01.jpg
+-rwxrwxrwx 1 root root    73 mai    3 18:30 index.md
+
+./content/photos/btp:
+total 5
+drwxrwxrwx 1 root root 4096 mai    3 18:10 chantier-01
+-rwxrwxrwx 1 root root   20 mai    3 15:16 _index.md
+
+./content/photos/btp/chantier-01:
+total 537
+-rwxrwxrwx 1 root root    115 mai    3 18:10 index.md
+-rwxrwxrwx 1 root root 144242 mai    3 18:05 photo-03.jpg
+-rwxrwxrwx 1 root root 150648 mai    3 18:03 photo-02.jpg
+-rwxrwxrwx 1 root root 247889 mai    3 18:02 photo-01.jpg
+
+./content/photos/tournages:
+total 1
+-rwxrwxrwx 1 root root 26 mai    3 15:19 _index.md
+
+./content/photos/portraits:
+total 1
+-rwxrwxrwx 1 root root 26 mai    3 15:18 _index.md
+
+./content/photos/countryside:
+total 1
+-rwxrwxrwx 1 root root 28 mai    3 15:18 _index.md
+
+./content/photos/city:
+total 1
+-rwxrwxrwx 1 root root 21 mai    3 15:17 _index.md
+
+./content/contact:
+total 1
+-rwxrwxrwx 1 root root 237 mai    3 22:21 _index.md
+
+./themes:
+total 0
+
+./i18n:
+total 0
+
+./data:
+total 0
+
+./archetypes:
+total 1
+-rwxrwxrwx 1 root root 104 mai    3 13:07 default.md

@@ -1,0 +1,18 @@
+{{ $page := . }}
+{{ $coverPage := $page }}
+
+{{ if and (not $page.Params.cover) $page.Pages }}
+  {{ $coverPage = index $page.Pages 0 }}
+{{ end }}
+
+<a href="{{ $page.RelPermalink }}" class="photo-card">
+  <div class="photo-thumb" data-title="{{ $page.Title }}">
+    {{ with $coverPage.Params.cover }}
+      {{ with $coverPage.Resources.GetMatch . }}
+        {{ $thumb := .Fill "400x300 webp q70" }}
+        <img src="{{ $thumb.RelPermalink }}" alt="{{ $page.Title }}" loading="lazy">
+      {{ end }}
+    {{ end }}
+  </div>
+  <p>{{ $page.Title }}</p>
+</a>

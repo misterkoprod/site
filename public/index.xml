@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil on SB Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Accueil on SB Portfolio</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Action</title>
+      <link>http://localhost:1313/photos/sport/action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/sport/action/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AsPoderosas LesPuissantes</title>
+      <link>http://localhost:1313/photos/sport/aspoderosas_lespuissantes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/sport/aspoderosas_lespuissantes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BTP</title>
+      <link>http://localhost:1313/photos/btp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/btp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>City</title>
+      <link>http://localhost:1313/photos/city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/city/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Countryside</title>
+      <link>http://localhost:1313/photos/countryside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/countryside/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Douce Nuit</title>
+      <link>http://localhost:1313/films/dn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/films/dn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evenementiel</title>
+      <link>http://localhost:1313/photos/corporate/evenementiel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/corporate/evenementiel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gauche Droite</title>
+      <link>http://localhost:1313/films/gd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/films/gd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interieurs</title>
+      <link>http://localhost:1313/photos/corporate/interieurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/corporate/interieurs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La Première Éternelle</title>
+      <link>http://localhost:1313/films/lpe-trailer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/films/lpe-trailer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mariage</title>
+      <link>http://localhost:1313/photos/corporate/mariage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/corporate/mariage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ModeSportswear</title>
+      <link>http://localhost:1313/photos/corporate/modesportswear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/corporate/modesportswear/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portraits</title>
+      <link>http://localhost:1313/photos/corporate/portraits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/corporate/portraits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portraits</title>
+      <link>http://localhost:1313/photos/portraits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/portraits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tournages</title>
+      <link>http://localhost:1313/photos/tournages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/tournages/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

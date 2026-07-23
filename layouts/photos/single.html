@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<div class="gallery-grid">
+  {{ range .Params.images }}
+    {{ $imageName := . }}
+    {{ with $.Resources.GetMatch $imageName }}
+      <button class="gallery-item" type="button" data-full="{{ .RelPermalink }}">
+        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" loading="lazy">
+      </button>
+    {{ end }}
+  {{ end }}
+</div>
+
+<div class="lightbox" id="lightbox" hidden>
+  <button class="lightbox-close" type="button" aria-label="Fermer">×</button>
+
+  <button class="lightbox-nav lightbox-prev" type="button" aria-label="Image précédente">&lt;</button>
+
+  <div class="lightbox-content">
+    <img class="lightbox-image" src="" alt="">
+
+    <div class="lightbox-thumbs" aria-label="Miniatures de la galerie">
+      {{ range .Params.images }}
+        {{ $imageName := . }}
+        {{ with $.Resources.GetMatch $imageName }}
+          {{ $thumb := .Fill "600x450 webp q75" }}
+          <button class="gallery-item" type="button" data-full="{{ .RelPermalink }}">
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ $.Title }}" loading="lazy">
+          </button>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  <button class="lightbox-nav lightbox-next" type="button" aria-label="Image suivante">&gt;</button>
+</div>
+
+{{ end }}

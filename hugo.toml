@@ -1,0 +1,14 @@
+baseURL = "http://localhost:1313/"
+languageCode = "fr-fr"
+title = "SB Portfolio"
+
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Portfolio photo et film de Stéphane B."
+  author = "Stéphane B."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

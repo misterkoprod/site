@@ -1,0 +1,77 @@
+<header class="site-header">
+  <div class="site-header__inner">
+    <a href="/" class="site-logo">
+      <img src="/images/LogoStephaneBouquet_little.jpg" alt="Logo Stéphane Bouquet">
+    </a>
+
+    <nav class="site-nav" aria-label="Navigation principale">
+      <ul class="nav-root">
+
+        <li class="nav-item has-dropdown">
+          <a href="/photos/" {{ if eq .Section "photos" }}class="is-active"{{ end }}>Photos</a>
+
+          {{ $photoOrder := slice "sport" "portraits" "btp" "city" "countryside" "tournages" "corporate" }}
+
+          <ul class="nav-dropdown">
+            {{ range $photoOrder }}
+              {{ with site.GetPage (printf "photos/%s" .) }}
+                <li class="nav-item {{ if .Pages }}has-dropdown{{ end }}">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+
+                  {{ if .Pages }}
+                    <ul class="nav-dropdown nav-subdropdown">
+
+                      {{ if eq .RelPermalink "/photos/corporate/" }}
+
+                        {{ $corporateOrder := slice "Portraits" "evenementiel" "Interieurs" "Mariage" "ModeSportswear" }}
+
+                        {{ range $corporateOrder }}
+                          {{ with site.GetPage (printf "photos/corporate/%s" .) }}
+                            <li>
+                              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                            </li>
+                          {{ end }}
+                        {{ end }}
+
+                      {{ else if eq .RelPermalink "/photos/sport/" }}
+
+                        {{ $sportOrder := slice "AsPoderosas_LesPuissantes" "Action" }}
+
+                        {{ range $sportOrder }}
+                          {{ with site.GetPage (printf "photos/sport/%s" .) }}
+                            <li>
+                              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                            </li>
+                          {{ end }}
+                        {{ end }}
+
+                      {{ else }}
+
+                        {{ range .Pages.ByTitle }}
+                          <li>
+                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                          </li>
+                        {{ end }}
+
+                      {{ end }}
+
+                    </ul>
+                  {{ end }}
+                </li>
+              {{ end }}
+            {{ end }}
+          </ul>
+        </li>
+
+        <li class="nav-item">
+          <a href="/films/" {{ if eq .Section "films" }}class="is-active"{{ end }}>Films</a>
+        </li>
+
+        <li class="nav-item">
+          <a href="/contact/" {{ if eq .Section "contact" }}class="is-active"{{ end }}>Contact</a>
+        </li>
+
+      </ul>
+    </nav>
+  </div>
+</header>

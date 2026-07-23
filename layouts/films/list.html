@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<div class="film-grid">
+  {{ range .Pages }}
+    {{ $page := . }}
+    <a href="{{ $page.RelPermalink }}" class="film-card">
+      <div class="film-poster" data-title="{{ $page.Title }}">
+      {{ with $page.Params.poster }}
+        {{ with $page.Resources.GetMatch . }}
+          {{ $poster := .Fill "600x800 webp q75" }}
+          <img src="{{ $poster.RelPermalink }}" alt="{{ $page.Title }}" loading="lazy">
+        {{ end }}
+      {{ end }}
+      </div>
+      <p>{{ $page.Title }}</p>
+    </a>
+  {{ end }}
+</div>
+
+{{ end }}

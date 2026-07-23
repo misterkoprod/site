@@ -1,0 +1,61 @@
+{{ $video := .Params.video }}
+
+{{ if $video }}
+
+  {{ $isVimeo := or
+      (in $video "vimeo.com")
+      (findRE "^[0-9]+$" $video)
+  }}
+
+  {{ $videoId := "" }}
+
+  {{ if $isVimeo }}
+
+    {{ if in $video "vimeo.com" }}
+      {{ $matches := findRE "[0-9]+" $video }}
+      {{ $videoId = index $matches 0 }}
+    {{ else }}
+      {{ $videoId = $video }}
+    {{ end }}
+
+    <div class="video-wrapper">
+      <iframe
+        src="https://player.vimeo.com/video/{{ $videoId }}"
+        title="{{ .Title }}"
+        frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+  {{ else }}
+
+    {{ if or (in $video "youtube.com") (in $video "youtu.be") }}
+
+      {{ if in $video "v=" }}
+        {{ $matches := findRE "v=([^&]+)" $video }}
+        {{ $videoId = replaceRE "v=" "" (index $matches 0) }}
+      {{ else if in $video "youtu.be/" }}
+        {{ $matches := findRE "youtu\\.be/([^?&]+)" $video }}
+        {{ $videoId = replaceRE "youtu.be/" "" (index $matches 0) }}
+      {{ end }}
+
+    {{ else }}
+
+      {{ $videoId = $video }}
+
+    {{ end }}
+
+    <div class="video-wrapper">
+      <iframe
+        src="https://www.youtube.com/embed/{{ $videoId }}"
+        title="{{ .Title }}"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+  {{ end }}
+
+{{ end }}

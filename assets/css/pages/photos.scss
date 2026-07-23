@@ -1,0 +1,372 @@
+/* ==========================================================================
+   Photos page
+   ========================================================================== */
+
+.photo-grid,
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+
+  margin-top: var(--space-lg);
+}
+
+
+/* ==========================================================================
+   Photo cards
+   ========================================================================== */
+
+.photo-card {
+  display: block;
+  text-decoration: none;
+
+  transition:
+    transform 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.photo-card:hover {
+  transform: translateY(-4px);
+}
+
+.photo-card p {
+  margin-top: 0.75rem;
+
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+
+  color: var(--color-text);
+}
+
+
+/* ==========================================================================
+   Photo thumbnails
+   ========================================================================== */
+
+.photo-thumb {
+  position: relative;
+
+  width: 100%;
+  aspect-ratio: 4 / 3;
+
+  overflow: hidden;
+
+  border: 1px solid var(--color-border);
+
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.photo-thumb img {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+
+  transition:
+    transform 0.35s ease,
+    opacity 0.35s ease;
+}
+
+.photo-card:hover .photo-thumb img {
+  transform: scale(1.03);
+}
+
+.photo-thumb::after {
+  content: attr(data-title);
+
+  position: absolute;
+  inset: 0;
+
+  display: grid;
+  place-items: center;
+
+  padding: 1rem;
+
+  background: rgba(0, 0, 0, 0.45);
+
+  color: white;
+
+  font-size: 1rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-align: center;
+
+  opacity: 0;
+
+  transition: opacity 0.25s ease;
+}
+
+.photo-card:hover .photo-thumb::after {
+  opacity: 1;
+}
+
+
+/* ==========================================================================
+   Gallery items
+   ========================================================================== */
+
+.gallery-item {
+  display: block;
+
+  width: 100%;
+  padding: 0;
+
+  overflow: hidden;
+
+  border: 1px solid var(--color-border);
+
+  background: transparent;
+
+  cursor: pointer;
+}
+
+.gallery-item img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+
+  object-fit: cover;
+
+  transition:
+    transform 0.35s ease,
+    opacity 0.35s ease;
+}
+
+.gallery-item:hover img {
+  transform: scale(1.03);
+}
+
+
+/* ==========================================================================
+   Lightbox
+   ========================================================================== */
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+
+  z-index: 10000;
+
+  display: grid;
+  grid-template-columns: 4rem minmax(0, 1fr) 4rem;
+
+  place-items: center;
+
+  gap: 1rem;
+  padding: 2rem;
+
+  background: rgba(0, 0, 0, 0.94);
+}
+
+.lightbox[hidden] {
+  display: none;
+}
+
+
+/* ==========================================================================
+   Lightbox content
+   ========================================================================== */
+
+.lightbox-content {
+  display: grid;
+  gap: 1rem;
+
+  justify-items: center;
+
+  max-width: 95vw;
+}
+
+.lightbox-image {
+  max-width: 85vw;
+  max-height: 75vh;
+
+  object-fit: contain;
+}
+
+
+/* ==========================================================================
+   Close button
+   ========================================================================== */
+
+.lightbox-close {
+  position: fixed;
+
+  top: 1.5rem;
+  right: 1.5rem;
+
+  z-index: 10001;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 3.25rem;
+  height: 3.25rem;
+
+  padding: 0;
+
+  font-family: Arial, sans-serif;
+  font-size: 2.4rem;
+  line-height: 1;
+
+  color: white;
+
+  background: rgba(0, 0, 0, 0.75);
+
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  border-radius: 999px;
+
+  cursor: pointer;
+
+  transition:
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+.lightbox-close:hover {
+  background: rgba(255, 255, 255, 0.15);
+
+  transform: scale(1.05);
+}
+
+
+/* ==========================================================================
+   Previous / next buttons
+   ========================================================================== */
+
+.lightbox-nav {
+  z-index: 10001;
+
+  width: 3rem;
+  height: 3rem;
+
+  font-size: 2rem;
+  line-height: 1;
+
+  color: white;
+
+  background: rgba(0, 0, 0, 0.4);
+
+  border: 1px solid rgba(255, 255, 255, 0.75);
+
+  cursor: pointer;
+
+  transition:
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+.lightbox-nav:hover {
+  background: rgba(255, 255, 255, 0.15);
+
+  transform: scale(1.05);
+}
+
+
+/* ==========================================================================
+   Lightbox thumbnails
+   ========================================================================== */
+
+.lightbox-thumbs {
+  display: flex;
+
+  gap: 0.75rem;
+
+  max-width: 85vw;
+
+  overflow-x: auto;
+
+  padding: 0.5rem;
+}
+
+.lightbox-thumb {
+  flex: 0 0 auto;
+
+  width: 5rem;
+  height: 3.75rem;
+
+  padding: 0;
+
+  border: 2px solid transparent;
+
+  background: transparent;
+
+  cursor: pointer;
+
+  opacity: 0.5;
+
+  transition:
+    opacity 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.lightbox-thumb:hover {
+  opacity: 0.8;
+}
+
+.lightbox-thumb.is-active {
+  border-color: white;
+
+  opacity: 1;
+
+  transform: scale(1.05);
+}
+
+.lightbox-thumb img {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+}
+
+
+/* ==========================================================================
+   Responsive
+   ========================================================================== */
+
+@media (max-width: 900px) {
+
+  .photo-grid,
+  .gallery-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}
+
+@media (max-width: 640px) {
+
+  .photo-grid,
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .lightbox {
+    grid-template-columns: 1fr;
+
+    padding: 1rem;
+  }
+
+  .lightbox-prev,
+  .lightbox-next {
+    position: fixed;
+
+    top: 50%;
+
+    transform: translateY(-50%);
+  }
+
+  .lightbox-prev {
+    left: 1rem;
+  }
+
+  .lightbox-next {
+    right: 1rem;
+  }
+
+  .lightbox-image {
+    max-width: 92vw;
+    max-height: 70vh;
+  }
+
+}
