@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Films on SB Portfolio</title>
-    <link>http://localhost:1313/films/</link>
-    <description>Recent content in Films on SB Portfolio</description>
-    <generator>Hugo</generator>
-    <language>fr-fr</language>
-    <atom:link href="http://localhost:1313/films/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Douce Nuit</title>
-      <link>http://localhost:1313/films/dn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/films/dn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gauche Droite</title>
-      <link>http://localhost:1313/films/gd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/films/gd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>La Première Éternelle</title>
-      <link>http://localhost:1313/films/lpe-trailer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/films/lpe-trailer/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Films on SB Portfolio</title>
+		<link>http://localhost:1313/films/</link>
+		<description>Recent content in Films on SB Portfolio</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/films/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Douce Nuit</title>
+				<link>http://localhost:1313/films/dn/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/films/dn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gauche Droite</title>
+				<link>http://localhost:1313/films/gd/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/films/gd/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>La Première Éternelle</title>
+				<link>http://localhost:1313/films/lpe-trailer/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/films/lpe-trailer/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
