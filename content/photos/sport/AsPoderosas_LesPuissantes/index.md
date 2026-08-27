@@ -21,4 +21,5 @@ images:
   - Mozambique2018_Boxe_Marcia_EmGuarda_01.jpg
   - Mozambique2018_Boxe_Sinoia_33Bis_TC.jpg
   - Mozambique2018_Boxeur_06_NB.jpg
+sort_index: 1000
 ---
