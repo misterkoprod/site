@@ -9,7 +9,7 @@
       <div class="film-poster" data-title="{{ $page.Title }}">
       {{ with $page.Params.poster }}
         {{ with $page.Resources.GetMatch . }}
-          {{ $poster := .Fill "600x800 webp q75" }}
+          {{ $poster := .Fit "600x800 webp q75" }}
           <img src="{{ $poster.RelPermalink }}" alt="{{ $page.Title }}" loading="lazy">
         {{ end }}
       {{ end }}
