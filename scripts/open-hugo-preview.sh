@@ -21,10 +21,11 @@ case "$(uname -s)" in
     open -a Terminal "$SERVER_SCRIPT"
     ;;
   Linux)
-    if command -v x-terminal-emulator >/dev/null 2>&1; then
-      x-terminal-emulator -e bash "$SERVER_SCRIPT" >/dev/null 2>&1 &
-    elif command -v mate-terminal >/dev/null 2>&1; then
+    # MATE est le bureau local : le préférer plutôt que le lien générique.
+    if command -v mate-terminal >/dev/null 2>&1; then
       mate-terminal -- bash "$SERVER_SCRIPT" >/dev/null 2>&1 &
+    elif command -v x-terminal-emulator >/dev/null 2>&1; then
+      x-terminal-emulator -e bash "$SERVER_SCRIPT" >/dev/null 2>&1 &
     else
       printf '%s\n' "Aucun émulateur de terminal compatible détecté. Lance : $SERVER_SCRIPT" >&2
       exit 1
