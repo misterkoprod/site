@@ -2,7 +2,7 @@
 title: BTP
 cover: NGE2021_HSL_Janvier_48_IN_WEB.jpg
 images:
-  - Percement_TBM3_260609_30_IN_WEB
+  - Percement_TBM3_260609_30_IN_WEB.jpg
   - 01SB_Indus_TourEiffel.jpg
   - 0O0A4325_WEB.jpg
   - 0O0A4382_WEB.jpg
@@ -10,18 +10,18 @@ images:
   - 437A8761_WEB.jpg
   - Agilis2019_PontBirHakeim_20_WEB.jpg
   - DCT2016_LaDefense_11_TC_WEB.jpg
-  - Percement_TBM3_260609_43_WEB
+  - Percement_TBM3_260609_43_WEB.jpg
   - DCT2016_LaDefense_30_TC_WEB.jpg
   - DCT2016_LaDefense_46_WEB.jpg
   - DCT2016_LaDefense_49_TC_WEB.jpg
   - L17_251105_04_WEB.jpg
-  - Percement_TBM2_260408_21_WEB
+  - Percement_TBM2_260408_21_WEB.jpg
   - L17_251105_26_WEB.jpg
   - L17_251105_29_WEB.jpg
   - NGE2015_PontTancarville_074.jpg
   - NGE2017_Ligne11_Dhuys_07_WEB.jpg
   - NGE2017_T2C_807_Octobre_12_TC.jpg
-  - Percement_TBM3_260609_05_WEB
+  - Percement_TBM3_260609_05_WEB.jpg
   - NGE2018_0O0A3293_Insta.jpg
   - NGE2018_0O0A3347_Insta.jpg
   - NGE2018_Ligne11_Dhuys_Juillet_34_NB_WEB.jpg
@@ -50,7 +50,7 @@ images:
   - NGE2021_HSL_Janvier_48_IN_WEB.jpg
   - NGE2021_L11_Carnot_Mars_17_Insta_WEB.jpg
   - NGE2021_L11_DemontageSofia_32_IN_WEB.jpg
-  - Percement_TBM3_260529_36_IN_WEB
+  - Percement_TBM3_260529_36_IN_WEB.jpg
   - NGE2021_L11_DemontageSofia_41_IN_WEB.jpg
   - NGE2021_L11_Hopital_Juin_06_IN_WEB.jpg
   - NGE2021_L11_Levage_Aout_57_IN_WEB.jpg
@@ -71,7 +71,7 @@ images:
   - NGE2024_L17_240329_055_WEB.jpg
   - NGE2024_L17_240329_056_IN_WEB.jpg
   - NGE2024_L17_240329_068_IN_WEB.jpg
-  - Percement_TBM3_260529_34_IN_WEB
+  - Percement_TBM3_260529_34_IN_WEB.jpg
   - NGE2024_L17_240329_093_IN_WEB.jpg
   - NGE2024_L17_240702_44_WEB.jpg
   - NGE2024_L17_240702_46_WEB.jpg
