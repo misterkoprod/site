@@ -44,7 +44,7 @@ images:
   - "NGE2015_PontTancarville_127.jpg"
   - "NGE2016_Corse_023.jpg"
   - "NGE2016_Corse_025.jpg"
-  - "Chamoux2026_260729_20_NB_WEB"
+  - "StVeran2026_26_Bis_WEB"
   - "NGE2016_Corse_098.jpg"
   - "NGE2016_Corse_099.jpg"
   - "NGE2016_Corse_155.jpg"
