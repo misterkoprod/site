@@ -15,6 +15,7 @@ images:
   - "DCT2016_LaDefense_46_WEB.jpg"
   - "DCT2016_LaDefense_49_TC_WEB.jpg"
   - "L17_251105_04_WEB.jpg"
+  - "Percement_TBM2_260408_21_WEB"
   - "L17_251105_26_WEB.jpg"
   - "L17_251105_29_WEB.jpg"
   - "NGE2015_PontTancarville_074.jpg"
