@@ -9,7 +9,7 @@
   <div class="photo-thumb" data-title="{{ $page.Title }}">
     {{ with $coverPage.Params.cover }}
       {{ with $coverPage.Resources.GetMatch . }}
-        {{ $thumb := .Fill "400x300 webp q70" }}
+        {{ $thumb := .Fit "400x300 webp q70" }}
         <img src="{{ $thumb.RelPermalink }}" alt="{{ $page.Title }}" loading="lazy">
       {{ end }}
     {{ end }}

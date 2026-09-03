@@ -6,8 +6,9 @@
   {{ range .Params.images }}
     {{ $imageName := . }}
     {{ with $.Resources.GetMatch $imageName }}
+      {{ $thumb := .Resize "800x webp q75" }}
       <button class="gallery-item" type="button" data-full="{{ .RelPermalink }}">
-        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" loading="lazy">
+        <img src="{{ $thumb.RelPermalink }}" alt="{{ $.Title }}" loading="lazy">
       </button>
     {{ end }}
   {{ end }}
@@ -25,8 +26,8 @@
       {{ range .Params.images }}
         {{ $imageName := . }}
         {{ with $.Resources.GetMatch $imageName }}
-          {{ $thumb := .Fill "600x450 webp q75" }}
-          <button class="gallery-item" type="button" data-full="{{ .RelPermalink }}">
+          {{ $thumb := .Fit "120x90 webp q60" }}
+          <button class="lightbox-thumb" type="button" data-full="{{ .RelPermalink }}">
             <img src="{{ $thumb.RelPermalink }}" alt="{{ $.Title }}" loading="lazy">
           </button>
         {{ end }}
