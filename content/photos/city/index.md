@@ -18,14 +18,14 @@ images:
   - Bouquet_Stephane_06.jpg
   - Cachan2025_437A5359_WEB.jpg
   - Danemark_Copenhague_01_WEB.jpg
-  - Paris2026_SacreCoeur_08_WEB
+  - Paris2026_SacreCoeur_08_WEB.jpg
   - Danemark_Copenhague_02_WEB.jpg
   - LaDefense2014_WEB.jpg
   - LesEnfantsVontBien_06_WEB.jpg
   - LFP2024_241015_007_WEB.jpg
   - LFP2024_241015_019_WEB.jpg
   - Maputo2018_25_Insta_WEB.jpg
-  - Paris2021_CanalStMartin_Lune_WEB
+  - Paris2021_CanalStMartin_Lune_WEB.jpg
   - Maputo2018_36_Insta_WEB.jpg
   - Maputo2018_48_Insta_WEB.jpg
   - NYC2013-7881.jpg
