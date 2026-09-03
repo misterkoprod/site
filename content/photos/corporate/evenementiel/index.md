@@ -12,6 +12,7 @@ images:
   - "Acoplan2021_Citizen_05_WEB.jpg"
   - "Cachan2023_231118_Halterophilie_25_WEB.jpg"
   - "Cachan2023_231221_25_WEB.jpg"
+  - "NGE2026_260423_035_WEB"
   - "Cachan2024_Futsal_240210_58_WEB.jpg"
   - "Cachan2025_250714_50_WEB.jpg"
   - "Cachan2025_250714_57_WEB.jpg"
