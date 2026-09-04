@@ -10,6 +10,7 @@ images:
   - 0O0A2936_WEB.jpg
   - 0O0A3971_WEB.jpg
   - 0O0A4572_IN_WEB.jpg
+  - MGDB - HD 08.jpg
   - 0O0A5326_WEB.jpg
   - 0O0A7086_IN_WEB.jpg
   - 0O0A8227.jpg
@@ -32,6 +33,7 @@ images:
   - Graffiti 07.jpg
   - GueuleDeRing2016_Remi.jpg
   - GuillaumeBabouin2017_50mm_05_WEB.jpg
+  - Shadows_Yoga_Felicie_46_IN_WEB.jpg
   - GwenClause2025_11_WEB.jpg
   - JacquesTopol2022_15_IN_WEB.jpg
   - Khalif2017_50mm_11_Bis_WEB.jpg
@@ -41,12 +43,12 @@ images:
   - LFP2024_241015_113_WEB.jpg
   - NikoTackian2018_23_Insta_WEB.jpg
   - MamadouThiam2015_12_WEB.jpg
+  - SB_VCP02.jpg
   - MarcVerillotte_JaiLu_Couv.jpg
   - MarkGrosy2022_11_IN_WEB.jpg
   - AlexNGom_Priso2018_50mm_04_WEB.jpg
   - AngeKunzli2018_50mm_04_WEB.jpg
   - MDRV2021_Octobre_14_IN.jpg
-  - MGDB - HD 08.jpg
   - MicheleLamy2017_50mm_11_WEB.jpg
   - NadiaJandeau2024_19_NB_WEB.jpg
   - 0O0A6954_TC_WEB.jpg
@@ -60,8 +62,6 @@ images:
   - PierreBenezit2025_05_NB_WEB.jpg
   - PierreDeReimpre2020_Bleu_04_IN_WEB.jpg
   - SandraRecio2021_05_IN_WEB.jpg
-  - SB_VCP02.jpg
-  - Shadows_Yoga_Felicie_46_IN_WEB.jpg
   - ThierryLaforest_50mm_12_WEB.jpg
   - TNA2024_Coachs_241016TNA2024_Coachs_241016_WEB.jpg
   - ChristopheGalfard2024_01_IN_WEB.jpg

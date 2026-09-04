@@ -2,100 +2,100 @@
 title: Action
 cover: 10SB_Boxe_ElHadakVSRoberge.jpg
 images:
-  - 03SB_Boxe_HereliusVSMonrose.jpg
+  - 0O0A0278_IN_WEB.jpg
   - 03SB_Thai_AurelienDuarte.jpg
-  - 06SB_Boxe_BelghechamVSRoselia02.jpg
-  - 07SB_Boxe_HereliusVSZaitzev.jpg
+  - OmarDrame2023_09_IN_WEB.jpg
   - 08SB_Boxe_KasmiVSChapelle.jpg
   - TNA2026_260409_PP_37_NB_WEB.jpg
-  - 0O0A0278_IN_WEB.jpg
+  - PhilippinePereira2022_221226_Tableau_03_TC_WEB_WEB.jpg
   - 0O0A0318_IN_WEB.jpg
   - 0O0A0557_IN_WEB.jpg
+  - TNA2025_250722_102_WEB.jpg
+  - ToscaneTori_230629_07_NB_WEB.jpg
   - 0O0A0667_NB_Bis_WEB.jpg
+  - TNA2025_250722_021_WEB.jpg
   - BGR2026_Jaune_437A7400_WEB.jpg
   - 0O0A1278_IN_WEB.jpg
-  - 0O0A1361_IN_WEB.jpg
+  - Shadows2022_220428_Hockey_11_IN_WEB.jpg
   - 0O0A1373_IN_WEB.jpg
+  - Lucie2024_241206_27_WEB.jpg
+  - Shadows_Savate_IGvsFL_12_Insta_WEB.jpg
+  - BastienColin2019_06_Insta_WEB.jpg
   - 0O0A2621_TC_WEB.jpg
+  - TNA2025_Gala_250613_153_WEB.jpg
   - 0O0A3165_WEB.jpg
+  - 15SB_Boxe_GuarrasVSRoselia.jpg
   - 0O0A5659_TC_WEB.jpg
+  - Shadows2022_220616_GB_06_NB_WEB.jpg
   - 0O0A5858_IN_WEB.jpg
   - 0O0A6424.jpg_effected-001.jpg
   - TNA2026_260409_PP_32_NB_WEB.jpg
+  - AxelReed2025_23_WEB.jpg
   - 0O0A7216_WEB.jpg
-  - 0O0A7245_TC_WEB.jpg
+  - Shadows2022_220616_LR_08_NB_WEB.jpg
   - 0O0A7831_Color_WEB.jpg
   - 0O0A9365_IN_WEB.jpg
+  - Savate_FajjariVSLambret.jpg
   - 0O0A9426_IN_WEB.jpg
-  - 0O0A9540_NB_WEB.jpg
-  - 0O0A9680_IN_WEB.jpg
-  - 0O0A9781_IN_WEB.jpg
-  - 0O0A9843_IN_WEB.jpg
-  - 0O0A9972_IN2_WEB.jpg
-  - LeonelFoe2026_38_WEB.jpg
-  - 10SB_Boxe_ElHadakVSRoberge.jpg
-  - 12SB_Boxe_MezaacheVSPerez02.jpg
   - 13SB_Full_N'DayenVSKabouche.jpg
-  - 14SB_Boxe_MormeckVSIbragimov03.jpg
-  - 15SB_Boxe_GuarrasVSRoselia.jpg
+  - 0O0A9540_NB_WEB.jpg
+  - Shadows2022_220616_GB_21_IN_WEB.jpg
+  - 0O0A9781_IN_WEB.jpg
+  - Lucie2024_241206_21_WEB.jpg
+  - Shadows_Savate_FlorentLazare_05_Insta_WEB.jpg
+  - 0O0A9843_IN_WEB.jpg
+  - LeonelFoe2026_38_WEB.jpg
+  - ToscaneTori_230629_11_IN_WEB.jpg
+  - 10SB_Boxe_ElHadakVSRoberge.jpg
+  - PhilippinePereira2022_221226_Tableau_02_TC_WEB.jpg
+  - 12SB_Boxe_MezaacheVSPerez02.jpg
   - 437A3872_TC_WEB.jpg
+  - Shadows_MT_GuillaumeBabouin_13_IN_WEB.jpg
   - 437A4038_IN_WEB.jpg
+  - 07SB_Boxe_HereliusVSZaitzev.jpg
   - Adidas - Entraînement JMM 20.jpg
   - AxelReed2025_20_IN_WEB.jpg
-  - AxelReed2025_23_WEB.jpg
-  - BastienColin2019_06_Insta_WEB.jpg
   - ChristelleBarbot2023_25_NB_WEB.jpg
+  - 06SB_Boxe_BelghechamVSRoselia02.jpg
   - ChristopheCarrio.jpg
   - GGG.jpg
   - Greg Tony - Battling Club HD 13.jpg
   - LeonelFoe2026_21_NB_WEB.jpg
   - JacquesTopol2022_Karate_08_IN_WEB.jpg
-  - Lucie2024_241206_21_WEB.jpg
   - Lucie2024_241206_23_WEB.jpg
-  - Lucie2024_241206_27_WEB.jpg
+  - ToscaneTori_230629_02_IN_WEB.jpg
+  - 0O0A9680_IN_WEB.jpg
   - MarieSlavicek2022_Boxe_25_WEB.jpg
   - Mezzache_Traction.jpg
-  - OmarDrame2023_09_IN_WEB.jpg
   - OmarDrame2023_25_IN_WEB.jpg
-  - OmarDrame2023_30_NB_WEB.jpg
-  - PhilippinePereira2022_221226_Tableau_02_TC_WEB.jpg
-  - PhilippinePereira2022_221226_Tableau_03_TC_WEB_WEB.jpg
+  - 03SB_Boxe_HereliusVSMonrose.jpg
+  - Shadows_Savate_Shadow_IngridGraziani_06_Insta_WEB.jpg
   - PhilippinePereira2022_221226_Tableau_09_TC_WEB.jpg
   - PierreDeReimpre2020_Nunchaku_12_NB_WEB.jpg
   - Savate_DiarraVSKonate.jpg
-  - Savate_FajjariVSLambret.jpg
-  - Savate_MilletVSBetta_01.jpg
+  - 0O0A1361_IN_WEB.jpg
   - Shadows2022_220428_Hockey_10_IN_WEB.jpg
-  - Shadows2022_220428_Hockey_11_IN_WEB.jpg
-  - Shadows2022_220428_Hockey_19_NB_WEB.jpg
+  - 0O0A7245_TC_WEB.jpg
   - Shadows2022_220616_GB_02_NB_WEB.jpg
-  - Shadows2022_220616_GB_06_NB_WEB.jpg
+  - 14SB_Boxe_MormeckVSIbragimov03.jpg
   - Shadows2022_220616_GB_17_NB_WEB.jpg
-  - Shadows2022_220616_GB_21_IN_WEB.jpg
-  - Shadows2022_220616_LR_08_NB_WEB.jpg
-  - Shadows2023__L16_230803_07_PN12_WEB.jpg
+  - 0O0A9972_IN2_WEB.jpg
   - Shadows_MT_GuillaumeBabouin_07_TC_WEB.jpg
-  - Shadows_MT_GuillaumeBabouin_13_IN_WEB.jpg
   - Shadows_Savate_Ambiance_IngridGraziani_02_Insta_WEB.jpg
-  - Shadows_Savate_FlorentLazare_05_Insta_WEB.jpg
-  - Shadows_Savate_IGvsFL_12_Insta_WEB.jpg
-  - Shadows_Savate_Shadow_IngridGraziani_06_Insta_WEB.jpg
   - Shadows_Yoga_Felicie_19_IN_WEB.jpg
   - SouccarGonnet_Exo1bis_02.jpg
   - StaivGentis2022_Boxing_01_WEB.jpg
   - TNA2022_220926_MPG_Coachs_07_WEB.jpg
-  - TNA2025_250722_021_WEB.jpg
   - BGR2026_Rouge_437A7568_WEB.jpg
   - TNA2025_250722_050_WEB.jpg
+  - Savate_MilletVSBetta_01.jpg
+  - Shadows2023__L16_230803_07_PN12_WEB.jpg
   - TNA2025_250722_091_WEB.jpg
-  - TNA2025_250722_102_WEB.jpg
+  - OmarDrame2023_30_NB_WEB.jpg
   - TNA2025_250722_114_WEB.jpg
+  - Shadows2022_220428_Hockey_19_NB_WEB.jpg
   - TNA2025_Gala_250613_143_WEB.jpg
-  - TNA2025_Gala_250613_153_WEB.jpg
-  - ToscaneTori_230629_02_IN_WEB.jpg
-  - ToscaneTori_230629_07_NB_WEB.jpg
   - BGR2026_Jaune_437A7473_WEB.jpg
-  - ToscaneTori_230629_11_IN_WEB.jpg
   - ToscaneTori_230629_27_NB_WEB.jpg
   - VillaM2022_221117_BilelJkitou_10_WEB.jpg
 ---
