@@ -1,6 +1,6 @@
 ---
 title: Action
-cover: 10SB_Boxe_ElHadakVSRoberge.jpg
+cover: ChristopheCarrio.jpg
 images:
   - 0O0A0278_IN_WEB.jpg
   - 03SB_Thai_AurelienDuarte.jpg

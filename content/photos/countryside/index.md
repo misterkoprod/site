@@ -1,6 +1,6 @@
 ---
 title: "Countryside"
-cover: "01SB_LandScape_Slovenie02.jpg"
+cover: "Brasil_LagoaAzul.jpg"
 images:
   - "01SB_LandScape_Slovenie02.jpg"
   - "04SB_LandScape_GdBornand01.jpg"
