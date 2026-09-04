@@ -2,57 +2,57 @@
 title: Portraits
 cover: NikoTackian_CalmannLevy_Bonnet_TC1_WEB.jpg
 images:
+  - Shadows_MT_GuillaumeBabouin_22_IN_WEB.jpg
+  - 0O0A4513_NB_WEB.jpg
+  - LandryBikoro2025_02_WEB.jpg
   - 03SB_NicolasCorbel.jpg
   - 0O0A1700_WEB.jpg
   - 0O0A2936_WEB.jpg
   - 0O0A3971_WEB.jpg
-  - 0O0A4425_WEB.jpg
-  - 0O0A4513_NB_WEB.jpg
   - 0O0A4572_IN_WEB.jpg
   - 0O0A5326_WEB.jpg
-  - 0O0A6954_TC_WEB.jpg
   - 0O0A7086_IN_WEB.jpg
   - 0O0A8227.jpg
   - 0O0A9967_WEB.jpg
   - 50mm2025_JohannFauveau_01_WEB.jpg
-  - AlexNGom_Priso2018_50mm_04_WEB.jpg
   - AllanSilveross_HD27.jpg
   - AndreaBiousse2024_09_WEB.jpg
-  - AngeKunzli2018_50mm_04_WEB.jpg
-  - AngerIsAgift.jpg
+  - NikoTackian2018_06_Insta_WEB.jpg
   - AnthonyConlon2019_17_NB_WEB.jpg
   - AxelReed2025_07_IN_WEB.jpg
   - BlandineBellavoirNB01.jpg
   - BougaMadgia_Gaia.jpg
   - CedricLaigneau2018_10_WEB.jpg
-  - ChristopheGalfard2024_01_IN_WEB.jpg
   - ChristopheGalfard2024_16_WEB.jpg
   - Dayanah2015_T-Shirt_01.jpg
   - Denis Braccini - octobre 2010 - 05.jpg
+  - 0O0A4425_WEB.jpg
   - FranckAmiack2025_16_NB_WEB.jpg
   - Gaspard2014_Lessive.jpg
   - Graffiti 07.jpg
   - GueuleDeRing2016_Remi.jpg
   - GuillaumeBabouin2017_50mm_05_WEB.jpg
-  - GwenClause2023_01_WEB.jpg
   - GwenClause2025_11_WEB.jpg
   - JacquesTopol2022_15_IN_WEB.jpg
   - Khalif2017_50mm_11_Bis_WEB.jpg
-  - LandryBikoro2025_02_WEB.jpg
   - LandryBikoro2025_06_Bis_WEB.jpg
   - Le Passage - tournage 14.jpg
+  - AngerIsAgift.jpg
   - LFP2024_241015_113_WEB.jpg
+  - NikoTackian2018_23_Insta_WEB.jpg
   - MamadouThiam2015_12_WEB.jpg
   - MarcVerillotte_JaiLu_Couv.jpg
   - MarkGrosy2022_11_IN_WEB.jpg
+  - AlexNGom_Priso2018_50mm_04_WEB.jpg
+  - AngeKunzli2018_50mm_04_WEB.jpg
   - MDRV2021_Octobre_14_IN.jpg
   - MGDB - HD 08.jpg
   - MicheleLamy2017_50mm_11_WEB.jpg
   - NadiaJandeau2024_19_NB_WEB.jpg
+  - 0O0A6954_TC_WEB.jpg
   - NadineGirard2014_39_TC.jpg
   - NicolasVerny2018_16_Insta_WEB.jpg
-  - NikoTackian2018_06_Insta_WEB.jpg
-  - NikoTackian2018_23_Insta_WEB.jpg
+  - GwenClause2023_01_WEB.jpg
   - NikoTackian_CalmannLevy_Bonnet_TC1_WEB.jpg
   - OlivierGuyot2023_24_IN_WEB.jpg
   - PaoloPalermo2012_HD13.jpg
@@ -61,9 +61,9 @@ images:
   - PierreDeReimpre2020_Bleu_04_IN_WEB.jpg
   - SandraRecio2021_05_IN_WEB.jpg
   - SB_VCP02.jpg
-  - Shadows_MT_GuillaumeBabouin_22_IN_WEB.jpg
   - Shadows_Yoga_Felicie_46_IN_WEB.jpg
   - ThierryLaforest_50mm_12_WEB.jpg
   - TNA2024_Coachs_241016TNA2024_Coachs_241016_WEB.jpg
+  - ChristopheGalfard2024_01_IN_WEB.jpg
   - VillaM2022_221117_Jaime_02_TC_WEB.jpg
 ---
