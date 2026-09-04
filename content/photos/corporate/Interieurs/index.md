@@ -34,6 +34,7 @@ images:
   - _MG_0429.jpg
   - EffiJ2017_Palestine_Salon_02_WEB.jpg
   - EffiJ2017_Palestine_Cuisine_01_WEB.jpg
+  - Acoplan2021_Citizen_05_WEB
   - RR2023_231221_Menuiserie_08_IN_WEB.jpg
   - RR2023_231221_Menuiserie_24_IN_WEB.jpg
   - RR2023_231221_Menuiserie_36_IN_WEB.jpg
