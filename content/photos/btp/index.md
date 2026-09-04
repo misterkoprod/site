@@ -2,61 +2,60 @@
 title: BTP
 cover: NGE2021_HSL_Janvier_48_IN_WEB.jpg
 images:
-  - Percement_TBM3_260609_30_IN_WEB.jpg
   - 01SB_Indus_TourEiffel.jpg
   - 0O0A4325_WEB.jpg
   - 0O0A4382_WEB.jpg
   - 437A8621_WEB.jpg
-  - 437A8761_WEB.jpg
   - Agilis2019_PontBirHakeim_20_WEB.jpg
-  - DCT2016_LaDefense_11_TC_WEB.jpg
+  - NGE2019_L14_Mars_12_WEB.jpg
   - Percement_TBM3_260609_43_WEB.jpg
   - DCT2016_LaDefense_30_TC_WEB.jpg
+  - NGE2025_L17_250701_018_WEB.jpg
   - DCT2016_LaDefense_46_WEB.jpg
-  - DCT2016_LaDefense_49_TC_WEB.jpg
   - L17_251105_04_WEB.jpg
   - Percement_TBM2_260408_21_WEB.jpg
   - L17_251105_26_WEB.jpg
-  - L17_251105_29_WEB.jpg
   - NGE2015_PontTancarville_074.jpg
   - NGE2017_Ligne11_Dhuys_07_WEB.jpg
   - NGE2017_T2C_807_Octobre_12_TC.jpg
+  - NGE2025_L16_ChellesGournay_60_IN_WEB.jpg
   - Percement_TBM3_260609_05_WEB.jpg
   - NGE2018_0O0A3293_Insta.jpg
-  - NGE2018_0O0A3347_Insta.jpg
+  - NGE2025_L17_250428_004_IN_WEB.jpg
   - NGE2018_Ligne11_Dhuys_Juillet_34_NB_WEB.jpg
   - NGE2019_HSL_Fevrier_11_TC_WEB.jpg
   - NGE2019_L14_Europe_Novembre_28_IN_WEB.jpg
+  - NGE2024_TELT_240213_42_IN_WEB.jpg
+  - NGE2025_L17_250428_008_IN_WEB.jpg
   - NGE2019_L14_Janvier_11_WEB.jpg
-  - NGE2019_L14_Mai_69_Insta_WEB.jpg
-  - NGE2019_L14_Mars_12_WEB.jpg
-  - NGE2019_L14_Septembre_18_Insta_WEB.jpg
   - NGE2019_L15_802_42_TC_WEB.jpg
   - NGE2020_AmandineRuault_Groupe_IN_WEB.jpg
-  - NGE2020_HSL_Aout_30_TC_WEB.jpg
+  - L17_251105_29_WEB.jpg
   - NGE2020_HSL_Octobre_14_WEB.jpg
   - NGE2020_L11_LaDhuys_12_IN_WEB.jpg
   - NGE2020_L14_Europe_Aout_30_TC_WEB.jpg
-  - NGE2020_L14_Mai_41_TC_WEB.jpg
+  - NGE2025_L17_251105_051_IN_WEB.jpg
   - NGE2020_L14_Mai_81_TC_WEB.jpg
-  - NGE2020_L14_OrlySud_Aout_07_TC_WEB.jpg
+  - Toulouse2025_MetroC_Fondeyre_250928_52_WEB.jpg
   - NGE2020_L14_RoueKoumba_48_IN_WEB.jpg
-  - NGE2020_L14_TASMR_Aout_05_TC_WEB.jpg
-  - NGE2020_L16_2E01_Decembre_15_TC_WEB.jpg
+  - NGE2025_L17_250428_063_IN_WEB.jpg
+  - Percement_TBM1_251126_10_IN_WEB.jpg
+  - 437A8761_WEB.jpg
   - NGE2020_L16_2E01_Decembre_27_IN_WEB.jpg
   - NGE2020_L16_601_Mars_05_TC_WEB.jpg
+  - NGE2025_L17_251105_041_IN_WEB.jpg
   - NGE2020_L16_603_Juillet_34_WEB.jpg
+  - NGE2018_0O0A3347_Insta.jpg
   - NGE2020_L16_603_Novembre_28_WEB.jpg
   - NGE2021_HSL_Janvier_48_IN_WEB.jpg
   - NGE2021_L11_Carnot_Mars_17_Insta_WEB.jpg
-  - NGE2021_L11_DemontageSofia_32_IN_WEB.jpg
   - Percement_TBM3_260529_36_IN_WEB.jpg
   - NGE2021_L11_DemontageSofia_41_IN_WEB.jpg
   - NGE2021_L11_Hopital_Juin_06_IN_WEB.jpg
-  - NGE2021_L11_Levage_Aout_57_IN_WEB.jpg
+  - DCT2016_LaDefense_49_TC_WEB.jpg
   - NGE2021_L14_Europe_Janvier_22_IN_WEB.jpg
   - NGE2021_L16_603_Janvier_25_IN_WEB.jpg
-  - NGE2021_L16_603_Janvier_39_IN_WEB.jpg
+  - Percement_TBM1_251126_-48_IN_WEB.jpg
   - NGE2021_L16_DescenteRoueDeCoupe_048_IN_WEB.jpg
   - NGE2022_L16_220809_Aulnay_31_IN_WEB.jpg
   - NGE2022_L16_220809_Aulnay_37_IN_WEB.jpg
@@ -66,6 +65,7 @@ images:
   - NGE2024_L11_240613_15_WEB.jpg
   - NGE2024_L17_240207_27_WEB.jpg
   - NGE2024_L17_240207_43_WEB.jpg
+  - NGE2019_L14_Septembre_18_Insta_WEB.jpg
   - NGE2024_L17_240329_016_IN_WEB.jpg
   - NGE2024_L17_240329_045_IN_WEB.jpg
   - NGE2024_L17_240329_055_WEB.jpg
@@ -77,30 +77,30 @@ images:
   - NGE2024_L17_240702_46_WEB.jpg
   - NGE2024_TELT_240213_17_IN_WEB.jpg
   - NGE2024_TELT_240213_18_WEB.jpg
-  - NGE2024_TELT_240213_42_IN_WEB.jpg
+  - NGE2021_L11_Levage_Aout_57_IN_WEB.jpg
   - NGE2024_TELT_240213_48_WEB.jpg
+  - Percement_TBM1_251126_21_IN_WEB.jpg
   - NGE2025_L16_ChellesGournay_48_IN_WEB.jpg
-  - NGE2025_L16_ChellesGournay_60_IN_WEB.jpg
-  - NGE2025_L17_250428_004_IN_WEB.jpg
-  - NGE2025_L17_250428_008_IN_WEB.jpg
+  - Toulouse2025_MetroC_LaVache_250928_40_WEB.jpg
   - NGE2025_L17_250428_014_IN_WEB.jpg
-  - NGE2025_L17_250428_063_IN_WEB.jpg
-  - NGE2025_L17_250701_018_WEB.jpg
+  - NGE2020_L14_OrlySud_Aout_07_TC_WEB.jpg
+  - Percement_TBM3_260609_30_IN_WEB.jpg
   - NGE2025_L17_250701_023_WEB.jpg
-  - NGE2025_L17_250701_028_WEB.jpg
-  - NGE2025_L17_251105_041_IN_WEB.jpg
-  - NGE2025_L17_251105_044_IN_WEB.jpg
-  - NGE2025_L17_251105_051_IN_WEB.jpg
+  - NGE2020_L16_2E01_Decembre_15_TC_WEB.jpg
+  - NGE2020_HSL_Aout_30_TC_WEB.jpg
+  - NGE2020_L14_Mai_41_TC_WEB.jpg
   - NGE2026_L17_260107_19_WEB.jpg
   - NGEFondations2024_240715_Chennevieres_51_WEB.jpg
   - Percement_TBM1_251126_09_IN_WEB.jpg
-  - Percement_TBM1_251126_10_IN_WEB.jpg
-  - Percement_TBM1_251126_21_IN_WEB.jpg
+  - NGE2019_L14_Mai_69_Insta_WEB.jpg
+  - DCT2016_LaDefense_11_TC_WEB.jpg
   - Percement_TBM1_251126_38_IN_WEB.jpg
-  - Percement_TBM1_251126_-48_IN_WEB.jpg
+  - NGE2021_L16_603_Janvier_39_IN_WEB.jpg
+  - NGE2021_L11_DemontageSofia_32_IN_WEB.jpg
+  - NGE2025_L17_251105_044_IN_WEB.jpg
   - Percement_TBM1_251126_53_IN_WEB.jpg
+  - NGE2020_L14_TASMR_Aout_05_TC_WEB.jpg
   - Percement_TBM1_Equipes_251126_05_IN_WEB.jpg
-  - Toulouse2025_MetroC_Fondeyre_250928_52_WEB.jpg
-  - Toulouse2025_MetroC_LaVache_250928_40_WEB.jpg
   - Toulouse2025_MetroC_LaVache_250928_55_WEB.jpg
+  - NGE2025_L17_250701_028_WEB.jpg
 ---

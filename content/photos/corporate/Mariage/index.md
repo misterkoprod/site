@@ -7,8 +7,8 @@ images:
   - MariageJD_260711_113_WEB.jpg
   - MariageJD_260711_123_WEB.jpg
   - MariageJD_260711_178_WEB.jpg
-  - 0O0A2962.jpg
   - 0O0A9601.jpg
+  - 0O0A2962.jpg
   - 0O0A9640.jpg
   - CharlotteNabil2023_Groupe_02_WEB.jpg
   - CharlotteNabil2023_Groupe_42_NB_WEB.jpg
@@ -18,12 +18,13 @@ images:
   - CoralieJonathan_14_NB_WEB.jpg
   - CoralieJonathan_20_WEB.jpg
   - CoralieJonathan_33_WEB.jpg
+  - Mariage2023_CoralieJonathan_58_WEB.jpg
+  - RedSocksWEB30.jpg
   - Diner_WEB34.jpg
   - Eglise - C&V 06.jpg
   - Mariage2017_AudeHicham_010_NB.jpg
   - Mariage2017_AudeHicham_014.jpg
   - Mariage2017_AudeHicham_024.jpg
-  - Mariage2023_CoralieJonathan_58_WEB.jpg
   - Mariage2023_LiliOmar_068_NB_WEB.jpg
   - Mariage2023_LiliOmar_127_WEB.jpg
   - Mariage2023_LiliOmar_133_WEB.jpg
@@ -32,8 +33,8 @@ images:
   - Mariage2023_LiliOmar_Portrait_03_NB_WEB.jpg
   - Mariage2023_LiliOmar_Portrait_08_IN_WEB.jpg
   - Mariage2023_LiliOmar_Portrait_25_IN_WEB.jpg
-  - Mariage2024_AuroreAlexis_080_WEB.jpg
   - Mariage2024_AuroreAlexis_153_NB_WEB.jpg
+  - Mariage2024_AuroreAlexis_080_WEB.jpg
   - Mariage2024_VF_056.jpg
   - Mariage2024_VF_145.jpg
   - Mariage2024_VF_148.jpg
@@ -61,5 +62,4 @@ images:
   - Portrait - A&J 06.jpg
   - Portrait - S&V 04.jpg
   - Portrait - V&C 03.jpg
-  - RedSocksWEB30.jpg
 ---
