@@ -5,44 +5,45 @@ images:
   - 0O0A0369_IN_WEB.jpg
   - 0O0A5434_TC_WEB.jpg
   - 0O0A6218_IN.jpg
-  - BagarreClub2024_437A7965_WEB.jpg
-  - BagarreClub2024_437A8017_WEB.jpg
-  - BagarreClub2024_437A8047_WEB.jpg
-  - BagarreClub2024_437A8241_WEB.jpg
-  - BagarreClub2024_437A8389_WEB.jpg
-  - BagarreClub2024_437A8406_WEB.jpg
-  - BagarreClub2024_437A8421_WEB.jpg
-  - Cerdan.jpg
-  - Lucie2024_241206_10_WEB.jpg
-  - Lucie2024_241206_15_WEB.jpg
-  - Lucie2025_250907_04_WEB.jpg
-  - Lucie2025_250907_08_WEB.jpg
-  - Lucie2025_250907_13_WEB.jpg
-  - Lucie2025_250907_16_WEB.jpg
-  - Lucie2025_250907_23_WEB.jpg
-  - Lucie2025_250907_24_WEB.jpg
-  - Lucie2025_250907_31_WEB.jpg
-  - Lucie2025_250907_34_WEB.jpg
-  - Medra2025_Ares_03_WEB.jpg
-  - Medra2025_Ares_08_WEB.jpg
-  - Medra2025_MedusaBlack_03Bis_WEB.jpg
-  - Medra2025_MedusaWhite_04_WEB.jpg
-  - Medra2025_MedusaWine_01_WEB.jpg
-  - Medra2025_MedusaWine_05_WEB.jpg
-  - Medra2025_Poseidon_04_WEB.jpg
   - Shadows2022_220616_GB_13_IN_WEB.jpg
+  - TNA2025_250117_Lululemon_25_WEB.jpg
+  - BagarreClub2024_437A8017_WEB.jpg
+  - Lucie2024_241206_10_WEB.jpg
+  - Medra2025_MedusaWine_01_WEB.jpg
+  - TNA2025_250722_013_WEB.jpg
+  - BagarreClub2024_437A8389_WEB.jpg
+  - Lucie2025_250907_04_WEB.jpg
+  - Medra2025_MedusaWine_05_WEB.jpg
+  - BagarreClub2024_437A8421_WEB.jpg
+  - TNA2024_240704_04_IN_WEB.jpg
+  - Cerdan.jpg
+  - Medra2025_Ares_03_WEB.jpg
+  - Lucie2024_241206_15_WEB.jpg
+  - TNA2023_230525_02_WEB.jpg
+  - BagarreClub2024_437A8406_WEB.jpg
+  - Lucie2025_250907_13_WEB.jpg
+  - TNA2025_250117_Lululemon_45_WEB.jpg
+  - Lucie2025_250907_24_WEB.jpg
+  - Medra2025_MedusaWhite_04_WEB.jpg
+  - Lucie2025_250907_34_WEB.jpg
+  - BagarreClub2024_437A7965_WEB.jpg
+  - Medra2025_Ares_08_WEB.jpg
+  - TNA2025_250722_065_WEB.jpg
+  - Lucie2025_250907_08_WEB.jpg
+  - TNA2025_250117_Lululemon_25_WEB.jpg
+  - Medra2025_Poseidon_04_WEB.jpg
+  - BagarreClub2024_437A8047_WEB.jpg
   - Shadows_MT_GuillaumeBabouin_25_IN_WEB.jpg
   - Shadows_Savate_IngridGraziani_03_Insta_WEB.jpg
+  - Lucie2025_250907_23_WEB.jpg
   - SouccarGonnet_Svetlana17.jpg
   - TNA2022_221107_Adium_19_IN_WEB.jpg
-  - TNA2023_230525_02_WEB.jpg
+  - Medra2025_MedusaBlack_03Bis_WEB.jpg
   - TNA2023_LuluLemon_19_IN_WEB.jpg
-  - TNA2024_240704_04_IN_WEB.jpg
   - TNA2024_240704_09_PL02_WEB.jpg
-  - TNA2025_250117_Lululemon_25_WEB.jpg
+  - Lucie2025_250907_16_WEB.jpg
   - TNA2025_250117_Lululemon_39_IN_WEB.jpg
-  - TNA2025_250117_Lululemon_45_WEB.jpg
-  - TNA2025_250722_013_WEB.jpg
-  - TNA2025_250722_065_WEB.jpg
+  - BagarreClub2024_437A8241_WEB.jpg
+  - Lucie2025_250907_31_WEB.jpg
   - TNA2025_250722_126_WEB.jpg
 ---
