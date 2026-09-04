@@ -2,6 +2,7 @@
 title: Mariage
 cover: Mariage2017_AudeHicham_014.jpg
 images:
+  - MariageJD_260711_045_WEB
   - MariageJD_260711_085_WEB.jpg
   - MariageJD_260711_092_NB_WEB.jpg
   - MariageJD_260711_113_WEB.jpg
@@ -25,14 +26,14 @@ images:
   - Mariage2017_AudeHicham_010_NB.jpg
   - Mariage2017_AudeHicham_014.jpg
   - Mariage2017_AudeHicham_024.jpg
+  - Mariage2023_LiliOmar_Portrait_03_NB_WEB.jpg
+  - Mariage2023_LiliOmar_Portrait_25_IN_WEB.jpg
   - Mariage2023_LiliOmar_068_NB_WEB.jpg
   - Mariage2023_LiliOmar_127_WEB.jpg
   - Mariage2023_LiliOmar_133_WEB.jpg
   - Mariage2023_LiliOmar_135_IN_WEB.jpg
   - Mariage2023_LiliOmar_141_IN_WEB.jpg
-  - Mariage2023_LiliOmar_Portrait_03_NB_WEB.jpg
   - Mariage2023_LiliOmar_Portrait_08_IN_WEB.jpg
-  - Mariage2023_LiliOmar_Portrait_25_IN_WEB.jpg
   - Mariage2024_AuroreAlexis_153_NB_WEB.jpg
   - Mariage2024_AuroreAlexis_080_WEB.jpg
   - Mariage2024_VF_056.jpg
