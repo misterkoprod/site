@@ -22,7 +22,7 @@ images:
   - AnthonyConlon2019_17_NB_WEB.jpg
   - AxelReed2025_07_IN_WEB.jpg
   - BlandineBellavoirNB01.jpg
-  - BougaMadgia_Gaia.jpg
+  - PhilippeBas_50mm_WEB.jpg
   - CedricLaigneau2018_10_WEB.jpg
   - ChristopheGalfard2024_16_WEB.jpg
   - Dayanah2015_T-Shirt_01.jpg
@@ -45,20 +45,20 @@ images:
   - MamadouThiam2015_12_WEB.jpg
   - SB_VCP02.jpg
   - MarcVerillotte_JaiLu_Couv.jpg
-  - MarkGrosy2022_11_IN_WEB.jpg
+  - NadineGirard2014_39_TC.jpg
   - AlexNGom_Priso2018_50mm_04_WEB.jpg
   - AngeKunzli2018_50mm_04_WEB.jpg
   - MDRV2021_Octobre_14_IN.jpg
+  - MarkGrosy2022_11_IN_WEB.jpg
   - MicheleLamy2017_50mm_11_WEB.jpg
+  - BougaMadgia_Gaia.jpg
   - NadiaJandeau2024_19_NB_WEB.jpg
   - 0O0A6954_TC_WEB.jpg
-  - NadineGirard2014_39_TC.jpg
   - NicolasVerny2018_16_Insta_WEB.jpg
   - GwenClause2023_01_WEB.jpg
   - NikoTackian_CalmannLevy_Bonnet_TC1_WEB.jpg
   - OlivierGuyot2023_24_IN_WEB.jpg
   - PaoloPalermo2012_HD13.jpg
-  - PhilippeBas_50mm_WEB.jpg
   - PierreBenezit2025_05_NB_WEB.jpg
   - PierreDeReimpre2020_Bleu_04_IN_WEB.jpg
   - SandraRecio2021_05_IN_WEB.jpg
