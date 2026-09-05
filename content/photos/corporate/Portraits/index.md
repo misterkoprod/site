@@ -13,22 +13,20 @@ images:
   - 0O0A6732_NB_WEB.jpg
   - NGE2025_251001_088_WEB.jpg
   - 0O0A7069.jpg
-  - Corporate_Portraits_JaneAvocats.jpg
   - 0O0A8020_WEB.jpg
+  - Corporate_Portraits_JaneAvocats.jpg
   - 0O0A8425_WEB.jpg
   - NGE2020_LaurentAmar_10_WEB.jpg
   - 0O0A9843_WEB.jpg
-  - AlixDesbarrieres2022_02_WEB.jpg
   - Anne2025_01_WEB.jpg
-  - AureileRizk2022_WEB.jpg
   - TNA2024_241218_30_WEB.jpg
+  - AlixDesbarrieres2022_02_WEB.jpg
   - Cachan2026_Elus_WEB.jpg
-  - Corporate_Portraits_JLB.jpg
   - NGE2019_JeanBernadet_05.jpg
   - Corporate_Portraits_Schroders.jpg
   - DavidBiousse2023_01_Mat_WEB.jpg
+  - Corporate_Portraits_JLB.jpg
   - NGE2019_OrsoVesperini_TheLord_WEB.jpg
-  - EricRajaud2022_01_WEB.jpg
   - FranckAttal2025_01_WEB.jpg
   - Groupe _05_WEB.jpg
   - NGE2025_JoelRousseau_16_WEB.jpg
@@ -36,8 +34,8 @@ images:
   - JorisBreux2022_WEB.jpg
   - NGE2020_JbGonnet_08_WEB.jpg
   - JulienFlaquieres2018_50mm_12.jpg
-  - MarcoDeMauro2022_WEB.jpg
   - MDRV2021_Costes_25_WEB.jpg
+  - MarcoDeMauro2022_WEB.jpg
   - NGE2019_MichelPavoine_06_WEB.jpg
   - 0O0A8176_WEB.jpg
   - NGE2025_ConseilStrategique_Total_01_WEB.jpg

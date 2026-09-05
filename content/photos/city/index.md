@@ -13,9 +13,9 @@ images:
   - Allemagne_Berlin_Tours_WEB.jpg
   - Paris2024_LaPlume_12_WEB.jpg
   - Bouquet_Stephane_06.jpg
-  - 0O0A8732_NB.jpg
   - Paris2017_VueAbesses_03_WEB copie.jpg
   - Cachan2025_437A5359_WEB.jpg
+  - 0O0A8732_NB.jpg
   - Paris2020_13eme_08_IN_WEB.jpg
   - Danemark_Copenhague_01_WEB.jpg
   - Paris2026_SacreCoeur_08_WEB.jpg
@@ -36,8 +36,8 @@ images:
   - Paris2022_StatueLiberte_WEB.jpg
   - 0O0A8388_Insta.jpg
   - Paris2024_241114_03_WEB.jpg
-  - Allemagne_Berlin_Tramway_WEB.jpg
   - Paris2024_ArtsEtMetiers_01_WEB.jpg
+  - Allemagne_Berlin_Tramway_WEB.jpg
   - Paris2024_Catacombes_22_NB_WEB.jpg
   - NYC2013-7881.jpg
   - Paris2024_LaPlume_01_IN_WEB.jpg
