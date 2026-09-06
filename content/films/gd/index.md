@@ -1,5 +1,6 @@
 ---
 title: "Gauche Droite"
+weight: 3
 poster: "GaucheDroite_WEB.jpg"
 video_provider: "vimeo"
 video: "https://vimeo.com/15812194"

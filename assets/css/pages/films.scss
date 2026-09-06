@@ -30,20 +30,18 @@
   object-fit: contain;
 }
 
-.film-poster::after {
-  content: attr(data-title);
+.film-title {
   position: absolute;
-  inset: 0;
-  display: grid;
-  place-items: center;
-  background: rgba(0, 0, 0, 0.4);
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  margin: 0;
+  padding: 2rem var(--space-sm) var(--space-sm);
+  background: linear-gradient(to top, rgba(2, 11, 31, 0.92), transparent);
   color: white;
-  opacity: 0;
-  transition: opacity 0.2s ease;
-}
-
-.film-card:hover .film-poster::after {
-  opacity: 1;
+  text-align: center;
+  text-shadow: 0 1px 3px #000;
 }
 
 /*Section video*/
