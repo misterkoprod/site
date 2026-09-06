@@ -19,7 +19,9 @@
   position: relative;
   aspect-ratio: 3 / 4;
   overflow: hidden;
-  background: #ddd;
+  // `object-fit: contain` deliberately leaves room around posters with a
+  // different ratio. Keep that room transparent so the site backdrop shows.
+  background: transparent;
 }
 
 .film-poster img {
