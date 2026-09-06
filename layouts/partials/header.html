@@ -23,7 +23,7 @@
 
                       {{ if eq .RelPermalink "/photos/corporate/" }}
 
-                        {{ $corporateOrder := slice "Portraits" "evenementiel" "Interieurs" "Mariage" "ModeSportswear" }}
+                        {{ $corporateOrder := slice "evenementiel" "Portraits" "Interieurs" "ModeSportswear" "Mariage" }}
 
                         {{ range $corporateOrder }}
                           {{ with site.GetPage (printf "photos/corporate/%s" .) }}
@@ -35,7 +35,7 @@
 
                       {{ else if eq .RelPermalink "/photos/sport/" }}
 
-                        {{ $sportOrder := slice "AsPoderosas_LesPuissantes" "Action" }}
+                        {{ $sportOrder := slice "Action" "AsPoderosas_LesPuissantes" }}
 
                         {{ range $sportOrder }}
                           {{ with site.GetPage (printf "photos/sport/%s" .) }}

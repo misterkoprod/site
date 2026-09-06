@@ -1,5 +1,5 @@
 ---
-title: ModeSportswear
+title: "Mode Sportswear"
 cover: BagarreClub2024_437A8241_WEB.jpg
 images:
   - 0O0A0369_IN_WEB.jpg

@@ -117,10 +117,12 @@
   width: 100%;
   margin: 0 0 2rem;
   padding: 0;
+  border: 0;
 
   overflow: hidden;
 
   background: transparent;
+  appearance: none;
 
   cursor: pointer;
   break-inside: avoid;
